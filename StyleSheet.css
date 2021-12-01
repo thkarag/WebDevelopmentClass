@@ -1,0 +1,43 @@
+html, body{
+    height: 100%;
+}
+
+ul{
+    list-style-type: none;
+    }
+    h1,p{
+    color: white;
+    text-align: center;
+    }
+    #header{
+    border:solid;
+    border-color:blue;
+    background-color:blue;
+    height:10%;
+    }
+    #main{
+    height:80%;
+    }
+    #footer{
+    clear:both;
+    border:solid;
+    border-color: blue;
+    background-color: blue;
+    height:10%;
+    }
+    #leftContent{
+    float:left;
+    border: none;
+    background-color: #a7aebf;
+    border-color: #a7aebf;
+    height: 100%;
+    width: 29%;
+    }
+    #righContent{
+    float:left;
+    border: none;
+    background-color: beige;
+    border-color: beige;
+    height: 100%;
+    width: 69%;
+    }
